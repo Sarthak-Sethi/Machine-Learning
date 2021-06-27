@@ -7,4 +7,6 @@ ComplexBoundaries.ipynb
 /Text Classification using naive bayes
 /Covid Slot Availability
 /Tkinterdesigner
-/Cifar 10
+/Cifar 10/data
+/Cifar 10/_pycache_
+*.py
